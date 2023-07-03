@@ -6,8 +6,8 @@ repoType: CODECOMMIT
 # the repo where the pipeline should pull its source from
 repoName: mlops-at-edge-for-quality-inspection
 # the CodestarConnectionArn for your GitHub repository
-githubConnectionArn: <FILL_WITH_CONNECTION_ARN>
+githubConnectionArn: arn:aws:codestar-connections:ap-southeast-2:574366534299:connection/b15e518e-75a3-496a-be5e-558dd696432f
 # the GitHub repo owner
-githubRepoOwner: awssamples
+githubRepoOwner: dcolcott
 # the git branch to use
 branchName: main
